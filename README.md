@@ -5,3 +5,4 @@ Tetris using Python and Pygame Tutorial
 
 | 🐍 Python 	| 2.7.14 	|
 |--------	|:---:	|
+|  	pygames|  https://www.pygame.org/news	|
